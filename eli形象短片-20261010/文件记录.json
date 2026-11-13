@@ -1,0 +1,20 @@
+{
+  "source": "/Users/USER/Downloads/eli素材-未用“HEL....mp4",
+  "method": "every decoded video frame, vsync0, scale360; sheets180wide; nominal times frame_index/24",
+  "frame_count": 361,
+  "frames_directory": "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/frames",
+  "sheets": [
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-01.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-02.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-03.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-04.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-05.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-06.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-07.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-08.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-09.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-10.jpg",
+    "/Volumes/EXTERNAL/自媒体/审片/eli形象短片-20261010/sheet-11.jpg"
+  ],
+  "limits": "完整帧序列的缩略图检查，不等于实时播放或听音；未修改原片"
+}
